@@ -16,10 +16,10 @@ body {
 input {
   width: 100%;
   border: none;
-  border-bottom: 3px solid red;
-  color: white;
+  border-bottom: 3px solid #ff4d4d;
+  color: bisque;
   background: #333;
-  font-size: 40px;
+  font-size: 36px;
 }
 input:focus {
   outline: none;
