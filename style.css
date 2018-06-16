@@ -1,0 +1,26 @@
+body {
+  background: #333;
+}
+
+.centered {
+  width: 550px;
+  height: 110px;
+  margin: auto;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+input {
+  width: 100%;
+  border: none;
+  border-bottom: 3px solid red;
+  color: white;
+  background: #333;
+  font-size: 40px;
+}
+input:focus {
+  outline: none;
+}
